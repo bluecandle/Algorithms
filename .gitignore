@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.zip
+*.csv
+*.xlsx
+.DS_Store/
+__pycache__/
+.vscode/
